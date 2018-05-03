@@ -1,2 +1,2 @@
 # SFCLithuania
-A stock-flow consistent model of the Lithuania using Minsky and R.
+A stock-flow consistent model of the Lithuanian economy using Minsky and R.
